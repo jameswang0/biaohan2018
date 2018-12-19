@@ -7,7 +7,7 @@ ACCESS_TOKEN = 'EAAcLl8zZAaWABAKyZAEtCZAD893IsWRTSyCGHcOkd2KerM3LHMax5X2uDZBsPCO
 
 VERIFY_TOKEN = '3345678'
 
-VERIFY_TOKEN = os.environ['VERIFY_TOKEN']
+
 PORT = os.environ['PORT']
 
 machine = TocMachine(
