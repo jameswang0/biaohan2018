@@ -7,7 +7,7 @@ import json
 import requests
 from transitions.extensions import GraphMachine
 from utils import send_text_message
-from fbmq import Attachment, Template, QuickReply, NotificationType
+
 
 
 ACCESS_TOKEN = 'EAAcLl8zZAaWABAKyZAEtCZAD893IsWRTSyCGHcOkd2KerM3LHMax5X2uDZBsPCOYlF30ZCF7NuWuMtXqPgSCK2qAqHZBdmrUO1fFDaZANh0oB2eRoGwpZCHru2EN7HQxDpBOPyq3dyJMiZByvopVhgZAouSUQgKyZC9h6lcZB06ZCX8LJeAZDZD'
